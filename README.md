@@ -1,2 +1,2 @@
 # Matrix
-This is a Matrix class in C++.
+This is a simple Matrix class in C++.
